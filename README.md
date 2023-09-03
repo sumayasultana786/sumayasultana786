@@ -5,7 +5,7 @@ A data engineer from Canada
 
 🔭 I’m currently working as an Associate Manager for a US based healthcare hospital's Enterprise Data Platform.
 
-🔭 I’m love working on ETL, Data visulaisation and Data Management projects.
+🔭 I love working on ETL, Data visulaisation and Data Management projects.
 
 🌱 I’m currently learning the Azure Data Engineering.
 
