@@ -11,7 +11,7 @@ A data engineer from Canada
 
 👨‍💻 All of my projects are available at [https://github.com/sumayasultana786]
 
-💬 Ask me about SQL, PowerBI, ETL
+💬 Ask me about SQL, PowerBI, ETL, Azure Data Pipelines
 
 📫 How to reach me asumayasultanaibrahim@gmail.com
 
